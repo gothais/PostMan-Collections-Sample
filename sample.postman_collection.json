@@ -1,0 +1,62 @@
+{
+	"id": "9392d582-7659-89cd-f19d-9f1634894ea6",
+	"name": "MifosAPITest",
+	"description": "",
+	"order": [
+		"53a87720-6d28-ceed-7125-912fe5c9c240",
+		"aa8a8268-6d5d-ce72-30d3-be0ed5a332fb"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1533209632180,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "53a87720-6d28-ceed-7125-912fe5c9c240",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "9392d582-7659-89cd-f19d-9f1634894ea6",
+			"data": null,
+			"dataMode": "params",
+			"name": "DeliveryMEthods",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1533209666710,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "aa8a8268-6d5d-ce72-30d3-be0ed5a332fb",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "9392d582-7659-89cd-f19d-9f1634894ea6",
+			"data": null,
+			"dataMode": "params",
+			"name": "GetListGroup",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1533210369221,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

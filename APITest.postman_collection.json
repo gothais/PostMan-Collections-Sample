@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "MifosAPITest",
+		"_postman_id": "9392d582-7659-89cd-f19d-9f1634894ea6",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "DeliveryMEthods",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GetListGroup",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
